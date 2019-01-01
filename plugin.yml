@@ -1,0 +1,14 @@
+name: CustomPlaceholders
+main: me.nyanguymf.custom.placeholders.CustomPlaceholders
+author: NyanGuyMF
+
+version: 1
+
+commands:
+  customplaceholders:
+    description: 'Reload plugin configuration'
+    aliases: ['cp', 'placeholders']
+
+permissions:
+  customplaceholders.reload:
+    description: 'Allows reload plugin'
