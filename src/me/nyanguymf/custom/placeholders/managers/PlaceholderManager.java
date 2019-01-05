@@ -52,7 +52,7 @@ public class PlaceholderManager {
             return null;
         }
 
-        return placeholders.get(placeholder);
+        return text;
     }
 
     /**
