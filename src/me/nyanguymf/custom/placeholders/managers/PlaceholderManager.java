@@ -1,5 +1,5 @@
 /**
- * PlaceholderManager.java 2019-01-01
+ 
  * 
  * @author NyanGuyMF
  * 
